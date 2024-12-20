@@ -1,2 +1,2 @@
 # TheChat
-Chat
+For chatting with ppl
