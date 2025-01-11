@@ -1,2 +1,2 @@
 # TheChat
-For chatting with ppl
+For chatting with ppl via issues
